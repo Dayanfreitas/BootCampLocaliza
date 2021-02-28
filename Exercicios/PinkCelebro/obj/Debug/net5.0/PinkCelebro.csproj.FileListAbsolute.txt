@@ -1,0 +1,16 @@
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.csprojAssemblyReference.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.AssemblyInfoInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.AssemblyInfo.cs
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\PinkCelebro.exe
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\PinkCelebro.deps.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\PinkCelebro.runtimeconfig.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\PinkCelebro.runtimeconfig.dev.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\PinkCelebro.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\ref\PinkCelebro.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\bin\Debug\net5.0\PinkCelebro.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\ref\PinkCelebro.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\PinkCelebro\obj\Debug\net5.0\PinkCelebro.genruntimeconfig.cache

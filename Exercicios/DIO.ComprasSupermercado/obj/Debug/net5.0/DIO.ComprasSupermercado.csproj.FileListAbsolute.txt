@@ -1,0 +1,16 @@
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\DIO.ComprasSupermercado.exe
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\DIO.ComprasSupermercado.deps.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\DIO.ComprasSupermercado.runtimeconfig.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\DIO.ComprasSupermercado.runtimeconfig.dev.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\DIO.ComprasSupermercado.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\ref\DIO.ComprasSupermercado.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\bin\Debug\net5.0\DIO.ComprasSupermercado.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.csprojAssemblyReference.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.AssemblyInfoInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.AssemblyInfo.cs
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\ref\DIO.ComprasSupermercado.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComprasSupermercado\obj\Debug\net5.0\DIO.ComprasSupermercado.genruntimeconfig.cache

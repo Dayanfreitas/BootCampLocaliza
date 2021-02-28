@@ -1,0 +1,16 @@
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.csprojAssemblyReference.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.AssemblyInfoInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.AssemblyInfo.cs
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\DIO.CrescimentoPopulacional.exe
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\DIO.CrescimentoPopulacional.deps.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\DIO.CrescimentoPopulacional.runtimeconfig.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\DIO.CrescimentoPopulacional.runtimeconfig.dev.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\DIO.CrescimentoPopulacional.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\ref\DIO.CrescimentoPopulacional.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\bin\Debug\net5.0\DIO.CrescimentoPopulacional.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\ref\DIO.CrescimentoPopulacional.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.CrescimentoPopulacional\obj\Debug\net5.0\DIO.CrescimentoPopulacional.genruntimeconfig.cache
