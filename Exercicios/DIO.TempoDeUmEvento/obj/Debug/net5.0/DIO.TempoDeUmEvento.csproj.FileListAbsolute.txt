@@ -1,0 +1,16 @@
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\DIO.TempoDeUmEvento.exe
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\DIO.TempoDeUmEvento.deps.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\DIO.TempoDeUmEvento.runtimeconfig.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\DIO.TempoDeUmEvento.runtimeconfig.dev.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\DIO.TempoDeUmEvento.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\ref\DIO.TempoDeUmEvento.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\bin\Debug\net5.0\DIO.TempoDeUmEvento.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.csprojAssemblyReference.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.AssemblyInfoInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.AssemblyInfo.cs
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\ref\DIO.TempoDeUmEvento.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.TempoDeUmEvento\obj\Debug\net5.0\DIO.TempoDeUmEvento.genruntimeconfig.cache

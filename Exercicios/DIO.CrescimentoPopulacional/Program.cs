@@ -53,8 +53,6 @@ namespace DIO.CrescimentoPopulacional
             }else {
                 return year+" anos.";
             }
-            return "true";
-
         }
 
         public override string ToString()
