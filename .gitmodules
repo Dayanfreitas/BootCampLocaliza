@@ -1,3 +1,6 @@
 [submodule "Projetos/BankAccount"]
 	path = Projetos/BankAccount
 	url = https://github.com/Dayanfreitas/BankAccount
+[submodule "Projetos/RegistrationSerie"]
+	path = Projetos/RegistrationSerie
+	url = https://github.com/Dayanfreitas/RegistrationSerie
