@@ -1,0 +1,3 @@
+[submodule "Projetos/BankAccount"]
+	path = Projetos/BankAccount
+	url = https://github.com/Dayanfreitas/BankAccount
