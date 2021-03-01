@@ -1,3 +1,4 @@
+using System;
 namespace DIO.TempoDeUmEvento
 {
     public class Event
@@ -14,6 +15,5 @@ namespace DIO.TempoDeUmEvento
             this.horarioInicio = horarioInicio;
             this.horarioFim = horarioFim;
         }
-
     }
 }
