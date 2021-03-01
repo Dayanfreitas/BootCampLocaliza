@@ -1,0 +1,16 @@
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.csprojAssemblyReference.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.AssemblyInfoInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.AssemblyInfo.cs
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\DIO.ComunicacaoEmPiralandia.exe
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\DIO.ComunicacaoEmPiralandia.deps.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\DIO.ComunicacaoEmPiralandia.runtimeconfig.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\DIO.ComunicacaoEmPiralandia.runtimeconfig.dev.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\DIO.ComunicacaoEmPiralandia.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\ref\DIO.ComunicacaoEmPiralandia.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\bin\Debug\net5.0\DIO.ComunicacaoEmPiralandia.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\ref\DIO.ComunicacaoEmPiralandia.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.ComunicacaoEmPiralandia\obj\Debug\net5.0\DIO.ComunicacaoEmPiralandia.genruntimeconfig.cache

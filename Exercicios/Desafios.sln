@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.CrescimentoPopulacional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.TempoDeUmEvento", "DIO.TempoDeUmEvento\DIO.TempoDeUmEvento.csproj", "{C9AB5CAF-AB6E-4ECE-AFFE-3E6C14A66A31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.ComunicacaoEmPiralandia", "DIO.ComunicacaoEmPiralandia\DIO.ComunicacaoEmPiralandia.csproj", "{F7237D37-0FA4-48FA-9A21-56EF64F4B395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,17 @@ Global
 		{C9AB5CAF-AB6E-4ECE-AFFE-3E6C14A66A31}.Release|x64.Build.0 = Release|Any CPU
 		{C9AB5CAF-AB6E-4ECE-AFFE-3E6C14A66A31}.Release|x86.ActiveCfg = Release|Any CPU
 		{C9AB5CAF-AB6E-4ECE-AFFE-3E6C14A66A31}.Release|x86.Build.0 = Release|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Debug|x64.Build.0 = Debug|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Debug|x86.Build.0 = Debug|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Release|x64.ActiveCfg = Release|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Release|x64.Build.0 = Release|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Release|x86.ActiveCfg = Release|Any CPU
+		{F7237D37-0FA4-48FA-9A21-56EF64F4B395}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
