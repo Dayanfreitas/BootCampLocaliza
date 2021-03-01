@@ -4,3 +4,6 @@
 [submodule "Projetos/RegistrationSerie"]
 	path = Projetos/RegistrationSerie
 	url = https://github.com/Dayanfreitas/RegistrationSerie
+[submodule "Projetos/dotnet-vaquinha-tests"]
+	path = Projetos/dotnet-vaquinha-tests
+	url = https://github.com/Dayanfreitas/dotnet-vaquinha-tests
