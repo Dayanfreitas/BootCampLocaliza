@@ -1,0 +1,16 @@
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.csprojAssemblyReference.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.AssemblyInfoInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.AssemblyInfo.cs
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.csproj.CoreCompileInputs.cache
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\DIO.Bazinga.exe
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\DIO.Bazinga.deps.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\DIO.Bazinga.runtimeconfig.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\DIO.Bazinga.runtimeconfig.dev.json
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\DIO.Bazinga.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\ref\DIO.Bazinga.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\bin\Debug\net5.0\DIO.Bazinga.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\ref\DIO.Bazinga.dll
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.pdb
+C:\Users\Dayan Freitas\Desktop\Bootcamp-Localiza\Exercicios\DIO.Bazinga\obj\Debug\net5.0\DIO.Bazinga.genruntimeconfig.cache
